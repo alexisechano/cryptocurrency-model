@@ -3,7 +3,7 @@ Made using Tensorflow and Python, this AI program models cryptocurrency prices a
 
 ## Run: 
 ![run of thing](runCrypto.gif)
-## More runtime: 
+## Last Epoch of Runtime:
 ![run screenshot](last.png)
-## Cost during training and testing runs: 
+## Cost during Training and Testing runs: 
 ![console during run](info.png)
